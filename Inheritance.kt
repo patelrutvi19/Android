@@ -10,7 +10,7 @@ open class Person(name : String)
     }
 }
 
-class Teacher(name: String) : Person("Milan")
+class Teacher(name: String) : Person("Rutvi")
 {
     init {
         println("My name is $name")
