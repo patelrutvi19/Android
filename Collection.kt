@@ -15,7 +15,7 @@ fun main() {
     println(arr)
     println(arr.contains("Sem-3"))
 
-    arr.set(0,"Milan")
+    arr.set(0,"Rutvi")
     println(arr)
 
 
